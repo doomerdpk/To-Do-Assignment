@@ -1,0 +1,37 @@
+body{
+    background-image: url('https://imgs.search.brave.com/66VU9VCJoZgJgPssbLatkxfeJI1ksnL-sf8sW_f4PRc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/ODQ0ODA5NzQ2OTMt/NmNhMGE3OGZiMzZi/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjAuMyZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE1ueDhkRzhs/TWpCa2J5VXlNR3hw/YzNSOFpXNThNSHg4/TUh4OGZEQT0') ;
+    background-size: cover;
+}
+
+#div1 {
+    height: 100px;
+    text-align: center;
+    flex-grow: 1;
+}
+
+#div2 {
+    height: 400px;
+    overflow-y: auto;
+    flex-grow: 2;
+}
+
+#div3 {
+    text-align: center;
+    height: 100px;
+    flex-grow: 1;
+}
+#addtodo{
+    width: 350px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+
+.addbtn{
+    height: 40px;
+    border-radius: 5px;
+    border:none;
+    margin-left: 10px;
+    background-color: dodgerblue;
+    color: white;
+}
