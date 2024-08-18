@@ -39,7 +39,7 @@ function addTodo()
     }
 
     const itemHTML = `
-    <div style="margin-left: 400px;" id="${ctr}">
+    <div style="margin-left: 400px; margin-bottom: 10px;" id="${ctr}">
         <div>
         <h4>${input_value}</h4>
         </div>
